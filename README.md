@@ -1,1 +1,0 @@
-# airline-booking-application-aws-serverless
